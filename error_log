@@ -1,0 +1,18 @@
+[04-Sep-2023 09:58:03 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[04-Sep-2023 09:58:21 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[04-Sep-2023 10:27:45 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[04-Sep-2023 10:53:08 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[10-Sep-2023 20:04:45 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[13-Sep-2023 10:26:12 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[13-Sep-2023 10:35:10 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[16-Sep-2023 21:13:06 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[23-Sep-2023 23:01:23 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[24-Sep-2023 14:01:01 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[30-Sep-2023 13:20:08 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[02-Oct-2023 17:02:11 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[02-Oct-2023 17:02:20 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Console\Commands\SendEmailCommand::$signature in /homeb/monmatics/public_html/app/Console/Commands/SendEmailCommand.php on line 38
+[15-Jan-2024 06:55:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /homeb/monmatics/public_html/dev/vendor/composer/platform_check.php on line 24
+[15-Jan-2024 06:55:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /homeb/monmatics/public_html/dev/vendor/composer/platform_check.php on line 24
+[26-Jan-2024 05:17:44 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /homeb/monmatics/public_html/dev/index.php on line 19
+[26-Jan-2024 19:55:14 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /homeb/monmatics/public_html/dev/index.php on line 19
+[26-Jan-2024 21:01:35 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /homeb/monmatics/public_html/dev/index.php on line 19

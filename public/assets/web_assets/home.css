@@ -1,0 +1,269 @@
+.body
+{
+overflow-x: hidden;
+}
+@media (max-width: 991.98px) {
+.navbar .navbar-collapse .navbar-brand {
+display: block;
+margin: 0 auto;
+text-align: center;
+}
+}
+.orange{color: #DC7210;}.blue{color:#163C69}
+.header {
+font-size: 11px;
+}
+.paddingInLists{
+padding-right: 20px;
+}
+.UppernavbarFontClass {
+font-size: 15px;
+font-weight: 400;
+line-height: 20.43px;
+padding-left: 0px;
+}
+.navbarFontClass {
+font-size: 16px;
+font-weight: 500;
+line-height: 21.79px;
+padding-left: 20px;
+}
+
+.banner {
+position: relative;
+/* background: #163C69; */
+height: 80vh;
+/* border-bottom-left-radius: 40%; */
+overflow: hidden;
+}
+
+.banner-image {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover;
+z-index: -1;
+}
+
+.banner-content {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+/* text-align: center; */
+}
+
+.banner-content h1 {
+color: #ffffff;
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.banner-content p {
+color: #ffffff;
+font-size: 1.2rem;
+}
+
+.banner-content .btn {
+background-color: #DC7210;
+}
+
+.image-container {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.image-item {
+text-align: center;
+margin: 0 10px;
+width: 200px; /* Adjust the width as needed */
+}
+
+.image-caption {
+margin-top: 10px;
+}
+
+
+
+.Apps-image-container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.Apps-image-item {
+flex-basis: 33%;
+text-align: center;
+margin: -26px;
+}
+
+.Apps-image-container-2ndRow {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.Apps-image-item-2ndRow {
+flex-basis: 33%;
+text-align: center;
+margin: -26px;
+}
+.UnleashGradiant{
+background-color: #F0F0F0;
+}
+
+.unleashTest{
+font-family: 'Open Sans', sans-serif;
+font-weight: 700;
+font-size: 35px;
+line-height: 47.66px;
+margin-left:130px;
+}
+.paddingInLists{
+padding-right: 20px;
+font-size: 16px;
+font-weight: 500;
+line-height: 21.79px;
+}
+@media (min-width: 992px) {
+.Apps-image-item {
+    flex-basis: 33%;
+    text-align: center;
+    margin: -18px;
+}
+.Apps-image-item-2ndRow {
+    flex-basis: 33%;
+    text-align: center;
+    margin: -18px;
+}
+.navbar-nav .paddingInLists {
+    padding-right: 0px;
+    font-size: 14px;
+font-weight: 500;
+line-height: 21.79px;
+
+}
+}
+.loginInSecNav{
+display: none;
+}
+.boxSize{
+margin: 80px;
+}
+@media (max-width: 767px) {
+.boxSize{
+    margin: 0px;
+}
+.banner-content {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+text-align: center;
+}
+.banner-content h1 {
+    font-size: 28px;
+}
+.banner-content p {
+    font-size: 16px;
+}
+
+.Apps-image-item {
+    flex-basis: 33%;
+    text-align: center;
+    margin: -18px;
+}
+.Apps-image-item-2ndRow {
+    flex-basis: 33%;
+    text-align: center;
+    margin: -18px;
+}
+.loginInSecNav{
+    display: block;
+}
+.onMobile{
+    display: block;
+}
+.upperNav{
+    display: block;
+}
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+
+}
+.-image{
+    display: none;
+    }
+.unleashTest{
+    margin-left: 0px;
+    }
+.center-button {
+    text-align: center;
+}
+.center-button .col-md-2 {
+    width: 100%; /* Adjust column width to take full width on mobile */
+    margin-left: 0;
+    margin-right: 0;
+}
+}
+/* Media Query for h1 font size */
+@media (min-width: 768px) and (max-width: 991px) {
+.banner-content h1 {
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.banner-content p {
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+.bannerButton{
+    font-size: 11px;
+    margin-bottom: 40px;
+}
+
+}
+@media (min-width: 992px) and (max-width: 1365px) {
+
+.banner-content h1 {
+    font-size: 29px;
+    margin-bottom: 0px;
+}
+.banner-content p {
+    font-size: 17px;
+    margin-bottom: 0px;
+}
+.bannerButton{
+    font-size: 11px;
+    margin-bottom: 40px;
+}
+
+}
+@media (min-width: 1366px) and (max-width: 1548px) {
+.banner-content h1 {
+    /* font-size: 31px; */
+    margin-bottom: 0px;
+}
+.banner-content p {
+    /* font-size: 20px; */
+    margin-bottom: 0px;
+}
+.bannerButton{
+    /* font-size: 13px; */
+    margin-bottom: 40px;
+}
+
+}
+.buttonUnleash{
+width: 186px;
+height: 50px;
+margin-left: 10px;
+padding-top: 10px;
+/* position: absolute; */
+/* left: 789px; */
+border: 1px solid black;
+}

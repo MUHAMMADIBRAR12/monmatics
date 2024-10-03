@@ -1,0 +1,156 @@
+/*
+The app core rights are with Solutions Wave. 
+For further help you can contact with info@solutionswave.com
+All content of project are copyright with Solutions Wave.
+
+*/
+/* 
+    Created on : May 3, 2020, 2:12:06 PM
+    Author     : Riz Naqvi
+*/
+
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #0c7ce6;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.amount
+{
+    width: 150px;
+    text-align: right;
+}
+.qty
+{
+    width:120px;
+    text-align: right;
+}
+
+.table td
+{
+    padding: 0.10rem;            
+}
+
+.btncol
+{
+    width: 35px;
+}
+
+.table_header
+{
+    text-align: center;
+}
+
+.table_header_100
+{
+    width: 100px;    
+}
+
+.table_header_125
+{
+    width: 125px;    
+}
+
+.table_header_150
+{
+    width: 150px;    
+}
+
+.table_header_175
+{
+    width: 175px;    
+}
+
+input[type="checkbox"][readonly] {
+  pointer-events: none;
+}
+.field-width
+{
+  width: 250px;
+}
+.product-field
+{
+  width: 220px;
+}
+.rowData .desc-textarea
+{
+  height: 35px;
+  width: 250px;
+}
+.rowData .packing
+{
+  width: 200px;
+}
+.dt-buttons .cl{
+  background: #FF69B4;
+}
+.dt-buttons .visible{
+  background: #8510d8;
+}
+.prod_field
+{
+  width: 300px;
+
+}
+/* 
+.multicurrency
+{
+    display: none;
+} */
+
+.serial_number
+{
+    width: 30px;
+    text-align: right;
+    padding-right: 3px;
+}

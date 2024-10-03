@@ -1,0 +1,54 @@
+.table .action{
+    padding: 0px;
+    text-align: center;
+}
+.table .column_size{
+    padding: 0%;
+    padding-left:2px;
+    padding-right:2px;
+    white-space: nowrap;
+
+}
+
+.bg {
+    background-color: gray;
+    color: white;
+    margin-right: 2px;
+    text-align: right;
+}
+
+.bg1 {
+    background-color: lightgray;
+}
+
+.bg2 {
+    background-color: white;
+}
+
+.bg3 {
+    background-color: gray;
+    color: white;
+    margin-right: 2px;
+    text-align: center;
+}
+
+.thstyle {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+.fontstyle {
+    font-weight: bold;
+    text-align: left;
+    font-size: 9px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.fontstyle1 {
+    text-align: right;
+    font-size: 8;
+}

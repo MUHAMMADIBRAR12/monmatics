@@ -1,0 +1,10 @@
+<script src="<?php echo e(asset('public/assets/bundles/datatablescripts.bundle.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/dataTables.buttons.min.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/buttons.bootstrap4.min.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/buttons.html5.min.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/buttons.print.min.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/buttons.colVis.min.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/buttons.pdfMake.min.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/buttons.pdfMakeVfs.min.js')); ?>"></script>
+<script src="<?php echo e(asset('public/assets/plugins/jquery-datatable/buttons/buttons.excel.min.js')); ?>"></script>
+<?php /**PATH C:\xampp\htdocs\app\resources\views/datatable-list.blade.php ENDPATH**/ ?>

@@ -1,0 +1,87 @@
+<svg width="1280" height="832" viewBox="0 0 1280 832" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="1280" height="832" fill="#023C82"/>
+<ellipse cx="298.25" cy="564.839" rx="647.48" ry="469.5" transform="rotate(-112.188 298.25 564.839)" fill="url(#paint0_linear_352_210)"/>
+<ellipse cx="734.5" cy="360" rx="818.5" ry="660" fill="url(#paint1_radial_352_210)"/>
+<ellipse cx="1024.23" cy="612.17" rx="818.635" ry="481.427" transform="rotate(91.5267 1024.23 612.17)" fill="url(#paint2_linear_352_210)"/>
+<g clip-path="url(#clip0_352_210)">
+<line x1="145.5" y1="835.041" x2="145.5" y2="736.959" stroke="#194882" stroke-width="3"/>
+<line x1="105.5" y1="835.025" x2="107.511" y2="647.984" stroke="#194882" stroke-width="3"/>
+<rect x="-55" y="578" width="60" height="60" fill="url(#pattern0)"/>
+<rect x="-15" y="513" width="60" height="60" fill="url(#pattern1)"/>
+<line x1="70.8244" y1="624.747" x2="108.824" y2="649.747" stroke="#194882" stroke-width="3"/>
+<line x1="55.5" y1="835" x2="55.5" y2="720" stroke="#194882" stroke-width="3"/>
+<line x1="13.5" y1="835" x2="13.5" y2="564" stroke="#194882" stroke-width="3"/>
+<line x1="13.5" y1="835" x2="13.5" y2="564" stroke="#194882" stroke-width="3"/>
+<line x1="55.5" y1="835" x2="55.5" y2="720" stroke="#194882" stroke-width="3"/>
+<line x1="70.8244" y1="624.747" x2="108.824" y2="649.747" stroke="#194882" stroke-width="3"/>
+<rect x="25" y="578" width="60" height="60" fill="url(#pattern2)"/>
+<rect x="31" y="675" width="50" height="50" fill="url(#pattern3)"/>
+<rect x="121" y="695" width="50" height="50" fill="url(#pattern4)"/>
+</g>
+<g clip-path="url(#clip1_352_210)">
+<line x1="1212.18" y1="170.253" x2="1174.18" y2="145.253" stroke="#194882" stroke-width="3"/>
+<line x1="1137.5" y1="-40.041" x2="1137.5" y2="58.0406" stroke="#194882" stroke-width="3"/>
+<line x1="1177.5" y1="-40.0249" x2="1175.49" y2="147.016" stroke="#194882" stroke-width="3"/>
+<line x1="1227.5" y1="-40" x2="1227.5" y2="75" stroke="#194882" stroke-width="3"/>
+<line x1="1269.5" y1="-40" x2="1269.5" y2="231" stroke="#194882" stroke-width="3"/>
+<line x1="1269.5" y1="-40" x2="1269.5" y2="231" stroke="#194882" stroke-width="3"/>
+<line x1="1227.5" y1="-40" x2="1227.5" y2="75" stroke="#194882" stroke-width="3"/>
+<line x1="1212.18" y1="170.253" x2="1174.18" y2="145.253" stroke="#194882" stroke-width="3"/>
+<rect x="1338" y="217" width="60" height="60" transform="rotate(-180 1338 217)" fill="url(#pattern5)"/>
+<rect x="1298" y="282" width="60" height="60" transform="rotate(-180 1298 282)" fill="url(#pattern6)"/>
+<rect x="1258" y="217" width="60" height="60" transform="rotate(-180 1258 217)" fill="url(#pattern7)"/>
+<rect x="1252" y="120" width="50" height="50" transform="rotate(-180 1252 120)" fill="url(#pattern8)"/>
+<rect x="1162" y="100" width="50" height="50" transform="rotate(-180 1162 100)" fill="url(#pattern9)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_352_210" transform="scale(0.0111111)"/>
+</pattern>
+<linearGradient id="paint0_linear_352_210" x1="298.25" y1="95.3385" x2="298.25" y2="1034.34" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B3C5DB"/>
+<stop offset="1" stop-color="#023C82" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="paint1_radial_352_210" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(734.5 360) rotate(90) scale(660 818.5)">
+<stop stop-color="#023C82"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint2_linear_352_210" x1="1024.23" y1="130.743" x2="1024.23" y2="1093.6" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFBF84"/>
+<stop offset="1" stop-color="#023C82" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_352_210">
+<rect width="336" height="361" fill="white" transform="translate(-165 474)"/>
+</clipPath>
+<clipPath id="clip1_352_210">
+<rect width="336" height="322" fill="white" transform="matrix(-1 0 0 -1 1448 321)"/>
+</clipPath>
+<image id="image0_352_210" width="90" height="90" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAAsTAAALEwEAmpwYAAAG1ElEQVR4nO1da4wURRCuAD7ig0SU2+4FQQ2/jMYHKiDiRQNbvXuGqPEUgyKKGI3BV0z8OVu1hyciGH7614TEEPEVFRXQXyYSoyD/MSoIIoImoGAO0NQsosL07C437+kvmeSyOzc1U9Nd/VV1VS2Ag4ODg4ODg4ODg4ODQ5cYXDdW13i6Ns0lyvAKZfgdjbRdI+9QSAcU8p/tgw7IZ/KdQnpbzq0afkT+V67RrbhSYfLA0CSN9JQy9K429Js2/NdoDoX8q/+CTGvZpXO9KpQZU/u9c7VpLlRIH2uko6NVrvXwr00bRNY0s+YcKAsq81aer5GfVki7YlOu/dirkZoTjDceCot+b5wy/Kwy9EsKCj7VtOyTly33BEWCqg/doJG+TFvBpync0LZqrXUz5B1XDnpnK8NrtKHjPSrhoNhVZXi5qvOiSoNm9A14V0wZGL5IrimH/C2fyXfKNB+Sc9u2mA71JouOa6TVck3II0QJvYxiZfhHjbzSH2GjmdLTXztL12m2NvSKNrS7B4VvqaB3GeQJlRrdJhSrSwV/opEwFu47uG6sqlNdIW/qznbTAdVo3Qp5gEK+WyEd6WIEbVCGbkzqvvrM0EyfSnZ+8Yd1ne+ELKNaaz7ciRMrQz9oQ3eldY/K8D0KeWeowpGOVpAXQ1ZHcheOx+sT+70L0r7Xi+evuFAZWttJ2Zkb2b5Nlilnt31/yGiHjEEjPxp634YPZ8ZmC7sIW/j84E+dZkNGoZHmdLr/1NmIcM8wCieUrTLPuwoyjr46Xx1KBZG/ENqY2g22nZGQkZADJf9X2R0o6SpIA9q0brF5fGKTs2wuQs2IzWYjHxOKCMkHiGib7e1nlhp1AV1vLg1hItsTDURJFC6MwkHOoUKpX2tZIjchPNgW6lSGv88CT46EZ9ucGqSf9R3eeRA3lKHn7W87PY8valSQ7w15zmcg/u0nGw2iDVAwKEMbLYv9rli3xZThB2xvuYo0CwqGSoNmWJ/X8ILYBNuiXxLqhIJCG/7UYqs/iDMlIDhoJPHkgkIZblhG9cjEhqciFyibmTY3u9AJK/3eOI28J9hfaD0ZuTyF/J5lEXwZCg6NtNry7Ouj3xKyxAEKsYvchWtumc37wfPGQKTpAsF26mCqUa0ko5S23XX0ro9MkJ88WBLu3CvjijSuI3bYwjaGoCRQyMPBzgsPRyfEz/IMEtJ8EEqCCvJii6LfikyIQv4mcNo0aAaUBFWkWRZFb41MiEb6LlBIozUVSoLKvNbllnXq28iECI0JEjK55k2AkkDf4V1iGdH7IhMipQxBQnKbGHgGkGhdsKLpCEQFp2hISNHOdEAipsMthtBOQw70JXhH7PQu+e339CAxndjpXbuULEBInRdBSVCVTNm4I3hSLGmJXi2HkkAhvRSsA3ox9qCSMvwRlARKKhNiDyr5JcPlDpMq5N+DdFA1fF0igf885tj1CsmRTiTwH7YgSiUVFBwK+VXLjH4zcmGSc2ZZdXcXfnPW0E/BI7r1ROTypEuALd1ASsygoKggDVhG80jf7csrsQgVlmEh7ZugoNCGPrMo+v0YhTYXWoQWcje8zwzNtD5vvXlfrEmOfilxSdLCNNLmVJIcBQrpOdtblmJJKAiqhhfYntNvQZFEYxO/30Wwrd4pSdyQc0ww3njbzPUZSBKJ6GF5eCd8/7WQcyjkN2zPF0u+XQdPcat1apnmEsgpFNLjIabxq8R9hvb2e0j5G9IcyBmUof6w8rdKbeimjGVZtluiSZEk5ASTanxNeCu4FLNmTyT/bQm5ud15UPYkUbIlB/rEuvN56lFKKUj3C+tDRrbOsBkRcxE2kv1Sv7neFMhKGLFTOwZdby6FDC58ndpfSCk2ZAnSRKSL7jNrs8CzfZ4cQuHaix8drSLPh8xmXHZSNvJOZWgwTY/P7oycPEakxRtkGTKyw6aj/nd0b0yyNtFv0WaJXZxqLjI7kgNtdsgCqf8/RTdLiVksjkC/N64dT7aGOk9f+LJmkztBUnqlc0tXyja+Q7DH5+VIc0aTPOlvpPovWrafgndGbBQuM+zijLoqGl4lXlXXCm/z70NSMyJlC5K4InFhScmSNOF/WmbK3/KZmB85R86VUK1ttzrkBR/znZG0eXJ06QoU4tikc0i8png17IPrxvobvNLvIn0l7/WjcEXeVJ7WzjN+rGM3xVgO32a/kFg8OTMKx+b9GvnDWFvPGx6RTgTCn0vVej4I0iVAprKUktmS3nuyvf41aL3kXcSWEpB7eN4YyWc7ySRE+bLJID8PYnj/yZ8HEWW2fzLka1+pyMPimVYb3rWRp2k5ODg4ODg4ODg4ODhAgfE32tD2BW1DhdAAAAAASUVORK5CYII="/>
+</defs>
+</svg>
